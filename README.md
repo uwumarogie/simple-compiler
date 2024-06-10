@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Initial Motivation
 
-I created this project as a learning exercise to understand the basic components of a compiler and how they work together after listening to a theoretical computer science lecture on compilers.
+I created this project as a learning exercise to understand the basic components of a compiler and how they work together after listening to a computer science lecture on compilers.
